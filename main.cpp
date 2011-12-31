@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-	std::cout << "helloworld" << '\n';
+int main (int argc, char * argv [])
+{
+	std::cout << "Hello World!" << '\n';
 }
